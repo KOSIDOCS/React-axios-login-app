@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-axios-login-app/static/css/main.51c97374.chunk.css",
+    "main.js": "/React-axios-login-app/static/js/main.cc565085.chunk.js",
+    "main.js.map": "/React-axios-login-app/static/js/main.cc565085.chunk.js.map",
+    "runtime-main.js": "/React-axios-login-app/static/js/runtime-main.b1a84eab.js",
+    "runtime-main.js.map": "/React-axios-login-app/static/js/runtime-main.b1a84eab.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/React-axios-login-app/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3784df78.chunk.js": "/React-axios-login-app/static/js/2.3784df78.chunk.js",
+    "static/js/2.3784df78.chunk.js.map": "/React-axios-login-app/static/js/2.3784df78.chunk.js.map",
+    "static/js/3.107ea692.chunk.js": "/React-axios-login-app/static/js/3.107ea692.chunk.js",
+    "static/js/3.107ea692.chunk.js.map": "/React-axios-login-app/static/js/3.107ea692.chunk.js.map",
+    "index.html": "/React-axios-login-app/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/React-axios-login-app/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.51c97374.chunk.css.map": "/React-axios-login-app/static/css/main.51c97374.chunk.css.map",
+    "static/js/2.3784df78.chunk.js.LICENSE.txt": "/React-axios-login-app/static/js/2.3784df78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a84eab.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3784df78.chunk.js",
+    "static/css/main.51c97374.chunk.css",
+    "static/js/main.cc565085.chunk.js"
+  ]
+}
