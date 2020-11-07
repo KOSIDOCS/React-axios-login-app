@@ -1,3 +1,11 @@
+# React Login App.
+
+![Gif Video](login.gif)
+
+# Workings
+
+This project used axios for processing requests.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
